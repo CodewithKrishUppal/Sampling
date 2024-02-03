@@ -1,0 +1,6 @@
+,Sampling Technique,Model,Accuracy
+4,Random Over Sampling,Decision Tree,0.9870967741935484
+3,Random Over Sampling,K-Nearest Neighbors,0.9806451612903225
+1,Random Over Sampling,Logistic Regression,0.8774193548387097
+2,Random Over Sampling,Naive Bayes,0.9354838709677419
+0,Random Over Sampling,Random Forest,0.9935483870967742
